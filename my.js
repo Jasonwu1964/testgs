@@ -32,3 +32,4 @@ function addGS(){
 
 document.getElementById("btn").addEventListener("click",testGS);
 document.getElementById("btn2").addEventListener("click",addGS);
+
